@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **girishsontakke/girishsontakke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning  *Frontend-Web-Development.*
-- 👯 I’m looking to collaborate on *ReactJs Projects.*
+
+- 🌱 I’m currently learning **Frontend-Web-Development.**
+- 👯 I’m looking to collaborate on **ReactJs Projects.**
