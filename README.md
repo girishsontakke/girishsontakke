@@ -15,19 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning **Frontend-Web-Development.**
-- 👯 I’m looking to collaborate on **ReactJs Projects.**
-- 😄 My **GitHub Stats.**
+## - 🌱 I’m currently learning **Frontend-Web-Development.**
 
-  ![Girish's github stats](https://github-readme-stats.vercel.app/api?username=girishsontakke&hide=stars&count_private=true&show_icons=true&theme=dracula&hide_border=true)
+## - 👯 I’m looking to collaborate on **ReactJs Projects.**
 
-- 👉 I use these **Languages.**
+## - 😄 My **GitHub Stats.**
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=girishsontakke&theme=dracula&hide_border=true&layout=compact)
+![Girish's github stats](https://github-readme-stats.vercel.app/api?username=girishsontakke&hide=stars&count_private=true&show_icons=true&theme=dracula&hide_border=true)
 
-- 📫 How to reach me:
+## - 👉 I use these **Languages.**
 
-  [![Instagram](https://img.icons8.com/plasticine/50/000000/instagram.png)](https://www.instagram.com/girishsontakke/)
-  [![Twitter](https://img.icons8.com/fluent/48/000000/twitter.png)](https://twitter.com/girishsontakke)
-  [![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/girishsontakke/)
-  [![Email](https://img.icons8.com/color/48/000000/gmail.png)](mailto:girishsontakke7@gmail.com)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=girishsontakke&theme=dracula&hide_border=true&layout=compact)
+
+## - 📫 How to reach me:
+
+[![Instagram](https://img.icons8.com/plasticine/50/000000/instagram.png)](https://www.instagram.com/girishsontakke/)
+[![Twitter](https://img.icons8.com/fluent/48/000000/twitter.png)](https://twitter.com/girishsontakke)
+[![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/girishsontakke/)
+[![Email](https://img.icons8.com/color/48/000000/gmail.png)](mailto:girishsontakke7@gmail.com)
