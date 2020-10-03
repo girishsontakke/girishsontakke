@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=girishsontakke&theme=dracula&hide_border=true&layout=compact)
 
 #### - 📫 How to reach me:
-[![Instagram](https://img.icons8.com/plasticine/50/000000/instagram.png)](https://www.instagram.com/girishsontakke/)
-[![Twitter](https://img.icons8.com/fluent/48/000000/twitter.png)](https://twitter.com/girishsontakke)
-[![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/girishsontakke/)
-[![Email](https://img.icons8.com/color/48/000000/gmail.png)](mailto:girishsontakke7@gmail.com)
+[![Instagram](https://img.icons8.com/plasticine/30/000000/instagram.png)](https://www.instagram.com/girishsontakke/)
+[![Twitter](https://img.icons8.com/fluent/30/000000/twitter.png)](https://twitter.com/girishsontakke)
+[![LinkedIn](https://img.icons8.com/fluent/30/000000/linkedin.png)](https://www.linkedin.com/in/girishsontakke/)
+[![Email](https://img.icons8.com/color/30/000000/gmail.png)](mailto:girishsontakke7@gmail.com)
