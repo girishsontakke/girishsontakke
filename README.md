@@ -15,19 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## - 🌱 I’m currently learning **Frontend-Web-Development.**
+#### - 🌱 I’m currently learning **Frontend-Web-Development.**
 
-## - 👯 I’m looking to collaborate on **ReactJs Projects.**
+#### - 👯 I’m looking to collaborate on **ReactJs Projects.**
 
-## - 😄 My **GitHub Stats.**
+#### - 😄 My **GitHub Stats.**
 
 ![Girish's github stats](https://github-readme-stats.vercel.app/api?username=girishsontakke&hide=stars&count_private=true&show_icons=true&theme=dracula&hide_border=true)
 
-## - 👉 I use these **Languages.**
+#### - 👉 I use these **Languages.**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=girishsontakke&theme=dracula&hide_border=true&layout=compact)
 
-## - 📫 How to reach me:
+#### - 📫 How to reach me:
 
 [![Instagram](https://img.icons8.com/plasticine/50/000000/instagram.png)](https://www.instagram.com/girishsontakke/)
 [![Twitter](https://img.icons8.com/fluent/48/000000/twitter.png)](https://twitter.com/girishsontakke)
