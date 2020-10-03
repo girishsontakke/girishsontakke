@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Frontend-Web-Development.**
 - 👯 I’m looking to collaborate on **ReactJs Projects.**
+- 😄 My **GitHub Stats.**
+
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=girishsontakke&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
