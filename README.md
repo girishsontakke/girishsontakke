@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 - 😄 My **GitHub Stats.**
 
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=girishsontakke&hide=stars&count_private=true&show_icons=true&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+- 👉 I use these **Languages.**
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=girishsontakke&theme=dracula&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
