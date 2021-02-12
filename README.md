@@ -23,6 +23,10 @@ Here are some ideas to get you started:
 #### - 👉 I use these **Languages.**
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=girishsontakke&theme=dracula&hide_border=true&layout=compact)
 
+#### - My **Technology Stack.**
+[![React](https://img.icons8.com/ultraviolet/40/000000/react.png)](https://reactjs.org/)&nbsp;&nbsp;
+[![Django](https://img.icons8.com/color/48/000000/django.png)](https://www.djangoproject.com/)
+
 #### - 📫 How to reach me:
 [![Twitter](https://img.icons8.com/fluent/30/000000/twitter.png)](https://twitter.com/girishsontakke)
 [![LinkedIn](https://img.icons8.com/fluent/30/000000/linkedin.png)](https://www.linkedin.com/in/girishsontakke/)
