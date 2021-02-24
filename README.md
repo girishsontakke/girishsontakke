@@ -30,4 +30,3 @@ Here are some ideas to get you started:
 #### - 📫 How to reach me:
 [![Twitter](https://img.icons8.com/fluent/30/000000/twitter.png)](https://twitter.com/girishsontakke)
 [![LinkedIn](https://img.icons8.com/fluent/30/000000/linkedin.png)](https://www.linkedin.com/in/girishsontakke/)
-[![Email](https://img.icons8.com/color/30/000000/gmail.png)](mailto:girishsontakke7@gmail.com)
