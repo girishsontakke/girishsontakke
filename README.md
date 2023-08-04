@@ -18,7 +18,7 @@ Here are some ideas to get you started:
  - 👯 I’m looking to collaborate on **ReactJs, Node, or Spring Projects.**
  - 😄 My **GitHub Stats.**
  
-![Girish's github stats](https://github-readme-stats.vercel.app/api?username=girishsontakke&hide=stars&count_private=true&show_icons=true&theme=dracula&hide_border=true)
+![Girish's github stats](https://github-readme-stats.vercel.app/api?username=girishsontakke&from=2021-01-01&hide=stars&count_private=true&show_icons=true&theme=dracula&hide_border=true)
 
  - 👉 I use these **Languages.**
  
