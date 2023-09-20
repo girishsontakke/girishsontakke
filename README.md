@@ -16,10 +16,7 @@ Here are some ideas to get you started:
 -->
  - 💻 I’m currently learning **Web-Development.**
  - 👯 I’m looking to collaborate on **ReactJs, React Native, or Spring Projects.**
- - 😄 My **GitHub Stats.**
- 
-![Girish's github stats](https://github-readme-stats.vercel.app/api?username=girishsontakke&from=2021-01-01&hide=stars&count_private=true&show_icons=true&theme=dracula&hide_border=true)
-
+--> 😄 My **GitHub Stats.**
  - 👉 I use these **Languages.**
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=girishsontakke&theme=dracula&hide_border=true&layout=compact)
@@ -27,7 +24,7 @@ Here are some ideas to get you started:
 - My **Technology Stack.**
 
 &nbsp; [![React](https://img.icons8.com/ultraviolet/40/000000/react.png)](https://reactjs.org/)&nbsp;&nbsp;
-[![Django](https://img.icons8.com/color/48/000000/django.png)](https://www.djangoproject.com/)
+[<img src="https://pluralsight2.imgix.net/paths/images/corespring-f9a00f4516.png" height="48px" width="48px" />](https://spring.io)
 
 - 📫 How to reach me:
 
